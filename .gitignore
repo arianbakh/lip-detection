@@ -1,0 +1,4 @@
+images/*
+!images/PLACEHOLDER
+mediapipe_tasks/*
+!mediapipe_tasks/PLACEHOLDER
