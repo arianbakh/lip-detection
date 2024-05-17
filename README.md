@@ -9,6 +9,7 @@
 # Example Usage
 
 - `python3 detect.py images/1.jpeg images/1_out.jpeg`
+- `python3 color_transfer.py images/1.jpeg images/1_out.jpeg images/6.jpeg images/6_out.jpeg images/1_transfer.jpeg`
 
 # Notes
 
